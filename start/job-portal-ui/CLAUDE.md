@@ -9,6 +9,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `npm run lint` — ESLint (flat config, JS/JSX only)
 - `npm run preview` — Preview production build
 
+## Repository Structure
+
+
 ## Architecture
 
 React 19 SPA using Vite 7, Tailwind CSS 4, and React Router 7. No TypeScript — plain JSX throughout.
